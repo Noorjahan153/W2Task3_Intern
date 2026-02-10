@@ -157,6 +157,7 @@ server {
     }
 }
 
+
 Notes / Issues Faced
 
 * npm install sometimes failed if run from the wrong folder. Always run inside strapi-app.
