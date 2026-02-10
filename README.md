@@ -67,7 +67,7 @@ http://localhost
 
 Dockerfile-code
 
-## Dockerfile (Strapi)
+## Dockerfile (Strapi)/docker-compose.yml
 
 ```dockerfile
 FROM node:20-bullseye-slim
